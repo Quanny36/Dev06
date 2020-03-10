@@ -1,0 +1,27 @@
+body {
+	background-image: linear-gradient(to right, grey,white);
+}
+
+button {
+	background-color: white;
+	border: solid black 2px;
+	border-radius: 2rem;
+	height: 32px;
+	width: 5rem;
+}
+
+h1 {
+	text-align: center;
+}
+
+.display {
+  border: solid black 4px;
+  width: 40rem;
+  height: 30rem;
+}
+
+input[type=text] {
+  border: solid black 2px;
+  padding: 5px;
+  border-radius: 6px;
+}
